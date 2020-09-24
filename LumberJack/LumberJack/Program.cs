@@ -45,7 +45,7 @@ namespace LumberJack
 
             else
             {
-                Console.WriteLine("You are too young to play. Get the hell out of here!!!!!");
+                Console.WriteLine("Yo!");
             }
 
             Console.WriteLine("Thanks!");
