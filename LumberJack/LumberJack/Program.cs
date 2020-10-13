@@ -12,7 +12,7 @@ namespace LumberJack
             //swapping numbers with temporary variable
             int temp = number1;
             number1 = number2;
-            number2 = number1;
+            number2 = temp;
         }
 
         //method to sort numbers into ascending order
