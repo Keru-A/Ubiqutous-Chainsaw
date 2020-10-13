@@ -5,7 +5,6 @@ namespace LumberJack
 {
     class Program
     {
-        /* Main method that ask for numbers and the sents them to be sorted*/
         // method to swap two numbers
         public static void Swap(ref int number1, ref int number2)
         {
@@ -34,6 +33,8 @@ namespace LumberJack
                 Swap(ref number1, ref number2);
             }
         }
+
+        /* Main method that ask for numbers and the sents them to be sorted*/
         static void Main()
         {
             int num1, num2, num3;
