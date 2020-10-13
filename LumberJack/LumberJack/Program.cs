@@ -7,7 +7,7 @@ namespace LumberJack
     {
         static void Main()
         {
-            
+            Console.WriteLine("The hot water has run out.");
         }
     }
 }
